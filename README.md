@@ -23,7 +23,7 @@ NOTE: You must have an existing AWS account.
 6. Your keys will look something like this:
    * Access key ID example: **AKIAIOSFODNN7EXAMPLE**.
    * Secret access key example: **wJaIrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY**.
-7. Click Download Credentials, and store the keys in a secure location.
+7. Click **Download Credentials**, and store the keys in a secure location.
 
 
 ## Configure AWS CLI
