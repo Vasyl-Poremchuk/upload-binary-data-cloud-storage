@@ -51,5 +51,5 @@ http://127.0.0.1:5000/bucket
 
 ## Demo
 
-![Website Interface](index.png)
-![Website Interface](bucket.png)
+![Website Interface](screenshots/index.png)
+![Website Interface](screenshots/bucket.png)
