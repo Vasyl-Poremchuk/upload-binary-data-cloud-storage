@@ -35,7 +35,12 @@ def home_page() -> str:
     """
     The function returns information about the application.
     """
-    return "A simple Flask app to upload binary data to Amazon S3 storage."
+    return (
+        "<h1>"
+        "A simple Flask app to upload"
+        " binary data to Amazon S3 storage."
+        "</h1>"
+    )
 
 
 @app.route("/bucket")
